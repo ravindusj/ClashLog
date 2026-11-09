@@ -7,6 +7,8 @@ Built with [Scriptable](https://scriptable.app). No login, no account access, ju
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Made with Scriptable](https://img.shields.io/badge/made%20with-Scriptable-orange)
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-29abe0?logo=kofi&logoColor=white)](https://ko-fi.com/ravindulach)
+
 
 <!-- 📸 Add your screenshots to an /images folder and keep these file names (or change the paths) -->
 <p align="center">
