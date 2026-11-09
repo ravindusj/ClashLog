@@ -12,9 +12,11 @@ Built with [Scriptable](https://scriptable.app). No login, no account access, ju
 
 <!-- 📸 Add your screenshots to an /images folder and keep these file names (or change the paths) -->
 <p align="center">
-  <img src="images/widgets.png" alt="Home Screen widgets" width="32%">
-  <img src="images/dashboard.png" alt="Dashboard" width="32%">
-  <img src="images/lockscreen.png" alt="Lock Screen widgets" width="32%">
+  <img src="images/smallwidget.jpg" alt="Home Screen widgets" width="32%">
+  <img src="images/mediumwidget.jpg" alt="Home Screen widgets" width="32%">
+  <img src="images/largewidget.jpg" alt="Home Screen widgets" width="32%">
+  <img src="images/dashboard.jpeg" alt="Dashboard" width="32%">
+  <img src="images/script_menu.jpg" alt="Script Menu" width="32%">
 </p>
 
 ---
